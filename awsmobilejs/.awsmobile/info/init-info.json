@@ -1,0 +1,48 @@
+{
+	"projectPath": "/home/papapumpkin/Projects/smartroom_client/smartroom_client",
+	"projectInfo": {
+		"ProjectName": "smartroom_client",
+		"ProjectPath": "/home/papapumpkin/Projects/smartroom_client/smartroom_client",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": "",
+		"Framework": "react-native"
+	},
+	"packageJson": {
+		"name": "smartroom_client",
+		"version": "0.0.1",
+		"private": true,
+		"scripts": {
+			"start": "node node_modules/react-native/local-cli/cli.js start",
+			"test": "jest"
+		},
+		"dependencies": {
+			"aws-amplify": "^0.4.8",
+			"aws-amplify-react-native": "^0.2.19",
+			"react": "16.4.1",
+			"react-native": "0.56.0"
+		},
+		"devDependencies": {
+			"babel-jest": "23.2.0",
+			"babel-preset-react-native": "5.0.2",
+			"jest": "23.3.0",
+			"react-test-renderer": "16.4.1"
+		},
+		"jest": {
+			"preset": "react-native"
+		}
+	},
+	"framework": "react-native",
+	"initialStage": "clean-slate",
+	"strategy": "create"
+}
